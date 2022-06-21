@@ -10,7 +10,7 @@ Test files are included in the assets directory.
 
 ## Requirements
 
-sox is required to run the program .
+sox is required to run the program.
 
 Windows Operating System:
 
