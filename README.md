@@ -22,7 +22,7 @@ Windows Operating System:
 
         $ brew install sox #macOS
 
-        $ play # command can be used from the terminal
+        $ play <sound file> #using sox from the terminal
 
 ## Running The Program
 
